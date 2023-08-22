@@ -43,6 +43,7 @@ public class PessoaDAO {
 		}
 		return false;
 	}
+<<<<<<< HEAD
 	
 	public boolean excluir(Pessoa p) {
 		Conexao c = Conexao.getInstancia();
@@ -85,5 +86,7 @@ public class PessoaDAO {
 		return false;
 	}
 	
+=======
+>>>>>>> master
 
 }
